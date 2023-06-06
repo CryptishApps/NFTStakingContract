@@ -1,8 +1,6 @@
-# Sample Hardhat Project
+# Sample NFT Staking
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
+A contract to help a certain NFT community create their staking contract.
 
 ```shell
 npx hardhat help
